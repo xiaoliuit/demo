@@ -1,0 +1,36 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "911e5be63df9787ca926a9d0fa213b68",
+    "packages": [
+        {
+            "name": "houdunwang/hdphp",
+            "version": "2.0.x-dev",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/houdunwang/hdphp.git",
+                "reference": "2ded74f937fa724cd9441d7365556bcc829b4b6b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/houdunwang/hdphp/zipball/2ded74f937fa724cd9441d7365556bcc829b4b6b",
+                "reference": "2ded74f937fa724cd9441d7365556bcc829b4b6b",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "time": "2016-10-22T15:06:07+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
